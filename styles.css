@@ -89,7 +89,7 @@ body {
 /* Background Image Section */
 .hero-section {
   margin-top: 1px;
-  height: 300vh;
+  height: 100vh;
   background: url('homecar.png') center/cover no-repeat;
   position: relative;
   color: white;
@@ -1462,3 +1462,4 @@ h2 {
     padding-top: 120px;
   }
 }
+
